@@ -1,0 +1,120 @@
+body {
+    background-color:ivory;
+}
+.banner {
+    
+    background: url(../images/banner2.png) no-repeat ;
+    color: black;
+    height: 20em;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+      
+}
+.banner h1 {
+    text-align: center;
+    padding-top: 7%;
+    padding-right: 20%;
+    letter-spacing: 2px;
+    font-family:fantasy;
+    
+}
+.banner h2 {
+    color: rgb(225, 0, 255);
+    text-align: center;
+    padding-right: 20%;
+}
+span {
+    font-family:cursive;
+    font-style:italic;
+}
+.banner h3 {
+    text-align: center;
+    padding-right: 20%;
+
+}
+
+.color {
+    text-align: left;
+    background-color: teal;
+    color: whitesmoke;
+    font-size: 40px;
+  
+}
+.colorpanel {
+    border: 1px solid black;
+    margin-top: 10px;
+    width: 100%;
+    font-family: 'Courier New';
+}
+
+.panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+.green {
+    background-color: #fcf9fc;
+   
+}
+.yellow {
+    background-color: yellow;
+}
+.green-panel {
+    background-color: hsl(132, 100%, 50%);
+}
+.darkcherryred {
+   background-color: hsl(0, 100%, 10%); 
+   color: whitesmoke;
+}
+.darkorchid3 {
+    background-color: hsl(280, 61%, 50%) ;
+}
+.geraniumlake {
+    background-color:hsl(351, 85%, 48%);
+    color: whitesmoke;
+}
+.fontpanel {
+    border: 1px solid black;
+}
+.firstfont {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.regular-playfair {
+    font-family: 'Courier New';
+    font-size: x-large;
+}
+.bold {
+    font-weight: bold;
+}
+.italy {
+    font-style: italic;
+}
+
+.regular-times {
+    font-family:cursive;
+    font-size: x-large;
+}
+.under_l {
+    text-decoration: underline;
+  
+}
+.textstyle {
+    border: 1px solid black;
+    padding: 10px;
+}
+.main {
+    font-size: 32px;
+    text-decoration: underline;
+}
+.supmain {
+    font-size: 18px;
+    text-decoration: underline;
+}
